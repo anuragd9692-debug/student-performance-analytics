@@ -1,0 +1,82 @@
+Name : Anurag Das
+Email : anuragd9692@gmail.com
+Project : Student Performance Analytics System
+
+* Documentation of Student Performance analytics System:-
+1. Introduction:
+
+The Student Performance Analytics System is a Python-based mini project developed 
+to analyze students' academic performance. It uses Pandas and NumPy to process 
+student data, calculate marks, assign grades, and identify top-performing students.
+
+2. Objectives:
+
+- To analyze students' academic performance.
+- To calculate total and average marks.
+- To assign grades based on average marks.
+- To identify pass and fail students.
+- To analyze subject-wise and department-wise performance.
+- To study attendance and identify top performers.
+
+3. Technologies Used:
+
+- Python: Used to write the program and perform calculations.
+- Pandas: Used to store, process, and analyze student data.
+- NumPy: Used for numerical calculations.
+- CSV: Used to store the student dataset and analysis results.
+- Google Colab: Used to develop and run the notebook.
+
+4. Project Files:
+
+- "main.py" — Python program for running the project.
+- "students.csv" — Contains student information and marks.
+- "analysis_results.csv" — Stores the analyzed results.
+- ".ipynb" notebook — Contains the code developed in Google Colab.
+- "README.md" — Provides an overview and instructions for the project.
+
+5. System Requirements:
+
+- Python 3
+- Pandas library
+- NumPy library
+- A computer with Python installed, or Google Colab for notebook execution.
+
+6. Methodology:
+
+1. Load the student dataset.
+2. Store and process student records using Pandas.
+3. Use NumPy for numerical calculations.
+4. Calculate total and average marks.
+5. Assign grades according to the program's grading rules.
+6. Determine pass or fail status.
+7. Analyze subject-wise and department-wise performance.
+8. Identify top-performing students.
+9. Save the analysis results to a CSV file.
+
+7. Features:
+
+- Student data management using a CSV file.
+- Total and average marks calculation.
+- Grade assignment and pass/fail analysis.
+- Subject-wise performance analysis.
+- Department-wise performance analysis.
+- Attendance analysis.
+- Identification of top-performing students.
+- Export of analyzed results to a CSV file.
+
+8. Expected Output:
+
+The program displays student performance information, including total marks, 
+average marks, grades, results, attendance analysis, and performance summaries. 
+It also generates an "analysis_results.csv" file containing the analyzed data.
+
+9. Conclusion:
+
+This project demonstrates the practical use of Python, Pandas, and NumPy for 
+student performance analysis. It helps organize academic data, perform calculations,
+and generate useful insights into students' performance.
+
+10. Future Scope:
+
+The project can be extended with graphical reports, a user-friendly interface, 
+database integration, and additional academic performance visualizations.
